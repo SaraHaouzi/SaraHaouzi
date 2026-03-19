@@ -49,6 +49,7 @@ This project strengthened my ability to build production-level applications, wor
 **English**: Advanced
 **French**: Native  
 
+
 ---
 
 Thank you for visiting my profile! Feel free to reach out through the contact details above.
