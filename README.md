@@ -36,6 +36,7 @@ I enjoy building scalable applications, learning new technologies, and developin
 This project is a full-stack web application developed as part of a real-world practicum in a software company.
 The system provides advanced analytical insights on public tenders, enabling businesses to make data-driven decisions, improve bidding strategies, and identify new business opportunities. 
 The platform allows users to access detailed reports on past tenders, including winners, disqualified candidates, reasons for disqualification, and pricing data.
+
 It also offers subscription-based services that deliver ongoing updates and market trends.
 During this project, I worked in an Agile development environment and took part in the full development lifecycle — from requirements analysis and system design to implementation, testing, and deployment.
 The system was built using modern technologies, combining a React-based frontend with a Python (Flask) backend and a MongoDB database, ensuring scalability, performance, and flexibility.
