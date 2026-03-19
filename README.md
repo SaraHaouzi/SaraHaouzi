@@ -29,6 +29,7 @@
 I am a passionate Full Stack Developer with strong problem-solving skills and a deep interest in modern web technologies.
 I enjoy building scalable applications, learning new technologies, and developing clean and maintainable code.
 
+---
 ## 🚀 Practicum & Professional Experience
 
 This project is a full-stack web application developed as part of a real-world practicum in a software company.
