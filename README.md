@@ -46,7 +46,7 @@ This project strengthened my ability to build production-level applications, wor
 ## 🌐 Languages
 
 **Hebrew**: Native  
-**English**: Advanced
+**English**: Advanced  
 **French**: Native  
 
 
